@@ -1,95 +1,4 @@
 
-// var age = 14
-// if ( 16 <= age ) { console.log('irgenii unemlehteishdeee')} 
-// else {console.log('unemlehguishdee')} 
-
-// var x=26, y=3;
-// var z = x * y;
-// var w = x % 5;
-// var e = y % 1;
-
-// var day = 87;
-// if(day >= 1 && day <= 9) {
-//     console.log('ehnii 9')
-// }
-// else if(day >= 10 && day <= 18) {
-//     console.log('hoyrdahi 9')
-// }
-// else if(day >= 19 && day <= 27) {
-//     console.log('guravdahi 9')
-// }
-// else if(day >= 28 && day <= 36) {
-//     console.log('dorovdeh 9')
-// }
-// else if(day >= 37 && day <= 45) {
-//     console.log('tavdahi 9')
-// }
-// else if(day >= 46 && day <= 54) {
-//     console.log('zurgaadahi 9')
-// }
-// else if(day >= 55 && day <= 63) {
-//     console.log('doloodahi 9')
-// }
-// else if(day >= 64 && day <= 72) {
-//     console.log('naimdahi 9')
-// }
-// else if(day >= 73 && day <= 81) {
-//     console.log('esdeh 9')
-// }
-// else if(day >= 82) {
-//     console.log('dulaahanshdee')
-// }
-
-
-// var text = ''
-// for(var i = 0 ; i < 5; i++) {
-//     text += '*'
-//     console.log(text)
-// }
-
-// for(var i = 1; i <= 100; i++) {
-//    if( i%2===1){console.log(i) ;}   
-// }
-
-// var num = 0
-// for(var i = 0 ; i < 101; i++) {
-//    num = num + i 
-//     }
-//    console.log(num)
-
-// var num = 1
-// for(var i = 1 ; i<= 100; i++ ) {
-//    if (i % 2 === 0) (num = num * i) 
-//     } console.log(num);
-
-// for(var i = 1; i >= 100; i++) {
-//    if (i%2 != 0){console.log(i);}
-// }
-
-//   var sum = 0
-//   for(var i = 1; i <= 100; i++){
-//      if ( i%2 == 0)
-//   {sum = sum + i}
-//   }
-//   console.log(sum)
-
-//   var mul = 1
-//   for(var i=1; i <= 100; i++){
-//      if (i%2 == 0)
-//        {mul = mul * i}
-//   }
-//   console.log(mul);
-
-//  var text = 'hasah'
-//  var reverse = ''
-//  for( i = text.length - 1; i >= 0; i--) {
-//  reverse = reverse + text[i]
-//  } if(text == reverse) {
-//    console.log(true)
-//  } else{
-//    console.log(false)
-//  }
-
 // var too = 3;
 // var zereg = 6;
 // console.log(too **= zereg)
@@ -107,18 +16,6 @@
 //   } 
 //      console.log(exponent)
 
-// function isPrimeNumber (n){
-//   let isPrimeNumber = true;
-//   if (n == 1) isPrimeNumber = false;
-// for(let i = 2; i < n; i++){
-//   if( n%i == 0){ 
-//     isPrimeNumber = false
-//   }
-// }
-// return isPrimeNumber
-// }
-// console.log(isPrimeNumber(9))
-
 // var x = 13;
 // var result;
 // for(var i = 2; i < x; i++){
@@ -131,88 +28,6 @@
 // }
 // }
 
-
-// function isPrimeNumber (n){
-//   let isPrimeNumber = true;
-//   if (n == 1) isPrimeNumber = false;
-// for(let i = 2; i < n; i++){
-//   if( n%i == 0){ 
-//     isPrimeNumber = false
-//   }
-// }
-// return isPrimeNumber
-// }
-// console.log(isPrimeNumber(n=0; n>=100; n++))
-
-
-
-// function isPrimeNumber (n){
-//   let isPrimeNumber = true;
-//   if (n == 1) isPrimeNumber = false;
-//   for(n=0; n>=100; n++){
-// for(let i = 2; i < n; i++){
-//   if( n%i == 0){ 
-//     isPrimeNumber = false
-//   }
-// }
-// }
-// }
-// console.log(isPrimeNumber(n))
-
-
-// let num = 10
-// let text = num.toString();
-// let reverse = ''
-// for ( i = num.length - 1; i >= 0; i--){
-//   reverse = reverse + num[i]
-// }if(num == reverse){
-//   console.log(true)
-// } else{
-//   console.log(false)
-// }
-
-// let num = '121'
-// let reverse = ''
-// for ( i = num.length - 1; i >= 0; i--){
-//   reverse = reverse + num[i]
-// }if(num == reverse){
-//   console.log(true)
-// } else{
-//   console.log(false)
-// }
-
-// for(let i = 1; i <=5; i++){
-//   let text = '' 
-//   for(let j = 0; j < 5; j++){
-//     if(i > j){
-//       text = text + '*'
-//     } else {
-//       text = text + ''
-//     }
-//   }console.log(text)
-// }
-
-// for(let i = 1; i <= 5; i++){
-//   let text = ''
-//   for(let j=1; j<=5; j++){
-//     if(i >= j){
-//       text = text + '*'
-//     } else{
-//       text = text + ''
-//     }
-//   } console.log(text)
-// }
-
-// for(let i = 5; i >= 1; i--){
-//   let text = ''
-//   for(let j = 5; j >= 1; j--){
-//     if(i >= j){
-//       text = text + '*'
-//     } else{
-//       text = text + ''
-//     }
-//   } console.log(text)
-// }
 // let names = [    "baljan",   
 //    "itgel",    
 //    "jamiyansuren",   
@@ -402,13 +217,6 @@
 //     }
 // } console.log(sum)
 
-// function sumOfDigit(num) {
-//     return num.toString().split("")
-//         .reduce((sum, digit) =>
-//             sum + parseInt(digit), 0);
-// }
-// console.log(sumOfDigit(999));
-
 // let a = 1;
 // let b = 11;
 // let sum = (a + b) * (b / a) / 2
@@ -521,7 +329,3 @@
 //     }
 // }
 // return false
-
-
-
-
